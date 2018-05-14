@@ -1,2 +1,2 @@
-# OC-lab-0
+# OClab0
 oc lab
